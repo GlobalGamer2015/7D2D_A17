@@ -1,0 +1,96 @@
+<configs>
+	<!-- Melee Items -->
+	<set xpath="/items/item[@name='meleeToolFlashlight02']/property[@name='Weight']/@value">3</set>
+	<set xpath="/items/item[@name='meleeToolMachete']/property[@name='Weight']/@value">100</set>
+	<set xpath="/items/item[@name='meleeToolChainsaw']/property[@name='Weight']/@value">25</set>
+	<set xpath="/items/item[@name='meleeToolAuger']/property[@name='Weight']/@value">25</set>
+	
+	<!-- Ranged Items -->
+	<set xpath="/items/item[@name='gunPistol']/property[@name='Weight']/@value">10</set>
+	<set xpath="/items/item[@name='gun44Magnum']/property[@name='Weight']/@value">17</set>
+	<set xpath="/items/item[@name='gunSMG5']/property[@name='Weight']/@value">14</set>
+	<set xpath="/items/item[@name='gunPumpShotgun']/property[@name='Weight']/@value">14</set>
+	<set xpath="/items/item[@name='gunHuntingRifle']/property[@name='Weight']/@value">14</set>
+	<set xpath="/items/item[@name='gunMR10']/property[@name='Weight']/@value">34</set>
+	<set xpath="/items/item[@name='gunAK47']/property[@name='Weight']/@value">27</set>
+	<set xpath="/items/item[@name='gunRocketLauncher']/property[@name='Weight']/@value">67</set>
+	<set xpath="/items/item[@name='gunCompoundBow']/property[@name='Weight']/@value">6</set>
+	<set xpath="/items/item[@name='gunToolNailgun']/property[@name='Weight']/@value">14</set>
+	
+	<!-- Resources & Armor & Misc -->
+	<set xpath="/items/item[@name='vehicleWheels']/property[@name='Weight']/@value">25</set>
+	<set xpath="/items/item[@name='armorMiningHelmet']/property[@name='Weight']/@value">30</set>
+	<set xpath="/items/item[@name='armorSwatHelmet']/property[@name='Weight']/@value">60</set>
+	<set xpath="/items/item[@name='armorFootballHelmet']/property[@name='Weight']/@value">30</set>
+	<set xpath="/items/item[@name='hazmatClothingMaster']/property[@name='Weight']/@value">3</set>
+	<set xpath="/items/item[@name='cowboyHat']/property[@name='Weight']/@value">5</set>
+	<set xpath="/items/item[@name='ballCap']/property[@name='Weight']/@value">4</set>
+	<set xpath="/items/item[@name='skullCap']/property[@name='Weight']/@value">8</set>
+	<set xpath="/items/item[@name='shades']/property[@name='Weight']/@value">3</set>
+	<set xpath="/items/item[@name='nightvisionGoggles']/property[@name='Weight']/@value">4</set>
+	<set xpath="/items/item[@name='bandana']/property[@name='Weight']/@value">8</set>
+	<set xpath="/items/item[@name='denimPants']/property[@name='Weight']/@value">15</set>
+	<set xpath="/items/item[@name='tankTop']/property[@name='Weight']/@value">10</set>
+	<set xpath="/items/item[@name='wornBoots']/property[@name='Weight']/@value">8</set>
+	<set xpath="/items/item[@name='runningShoes']/property[@name='Weight']/@value">13</set>
+	<set xpath="/items/item[@name='hpRunningShoes']/property[@name='Weight']/@value">13</set>
+	<set xpath="/items/item[@name='shirt']/property[@name='Weight']/@value">10</set>
+	<set xpath="/items/item[@name='leatherDuster']/property[@name='Weight']/@value">45</set>
+	<set xpath="/items/item[@name='pufferCoat']/property[@name='Weight']/@value">15</set>
+	<set xpath="/items/item[@name='sweatshirt']/property[@name='Weight']/@value">13</set>
+	<set xpath="/items/item[@name='tshirt']/property[@name='Weight']/@value">10</set>
+	<set xpath="/items/item[@name='jacketWhite']/property[@name='Weight']/@value">15</set>
+	<set xpath="/items/item[@name='hoodedSweatshirt']/property[@name='Weight']/@value">13</set>
+	<set xpath="/items/item[@name='cowboyBoots']/property[@name='Weight']/@value">10</set>
+	<set xpath="/items/item[@name='gothicPants']/property[@name='Weight']/@value">25</set>
+	<set xpath="/items/item[@name='suitPants']/property[@name='Weight']/@value">15</set>
+	<set xpath="/items/item[@name='dressShoes']/property[@name='Weight']/@value">13</set>
+	
+	<!-- Medical & Food & Drinks -->
+	<set xpath="/items/item[@name='medicalBandage']/property[@name='Weight']/@value">3</set>
+	<set xpath="/items/item[@name='medicalBloodDrawKit']/property[@name='Weight']/@value">3</set>
+	<set xpath="/items/item[@name='foodCanBeef']/property[@name='Weight']/@value">3</set>
+	<set xpath="/items/item[@name='drinkCanEmpty']/property[@name='Weight']/@value">3</set>
+	<set xpath="/items/item[@name='drinkCanRiverWater']/property[@name='Weight']/@value">3</set>
+	<set xpath="/items/item[@name='drinkCanBoiledWater']/property[@name='Weight']/@value">3</set>
+	<set xpath="/items/item[@name='drinkJarEmpty']/property[@name='Weight']/@value">5</set>
+	<set xpath="/items/item[@name='drinkJarRiverWater']/property[@name='Weight']/@value">5</set>
+	<set xpath="/items/item[@name='drinkJarBoiledWater']/property[@name='Weight']/@value">5</set>
+	<set xpath="/items/item[@name='drinkJarGoldenRodTea']/property[@name='Weight']/@value">5</set>
+	<set xpath="/items/item[@name='drinkJarRedTea']/property[@name='Weight']/@value">5</set>
+	<set xpath="/items/item[@name='drinkJarCoffee']/property[@name='Weight']/@value">5</set>
+	<set xpath="/items/item[@name='drinkJarBeer']/property[@name='Weight']/@value">5</set>
+	<set xpath="/items/item[@name='drinkJarGrainAlcohol']/property[@name='Weight']/@value">5</set>
+	<set xpath="/items/item[@name='drinkJarGrandpasMoonshine']/property[@name='Weight']/@value">5</set>
+	<set xpath="/items/item[@name='drinkJarGrandpasAwesomeSauce']/property[@name='Weight']/@value">5</set>
+	<set xpath="/items/item[@name='drinkJarGrandpasLearningElixir']/property[@name='Weight']/@value">5</set>
+	
+	<!-- Masters -->
+	<set xpath="/items/item[@name='schematicMaster']/property[@name='Weight']/@value">1</set>
+	<set xpath="/items/item[@name='questMaster']/property[@name='Weight']/@value">1</set>
+	
+	<!-- Resources -->
+	<set xpath="/items/item[@name='resourceIronFragment']/property[@name='Weight']/@value">3</set>
+	<set xpath="/items/item[@name='resourceConcreteMix']/property[@name='Weight']/@value">10</set>
+	<set xpath="/items/item[@name='resourceInsulator']/property[@name='Weight']/@value">8</set>
+	<set xpath="/items/item[@name='resourceHubcap']/property[@name='Weight']/@value">5</set>
+	<set xpath="/items/item[@name='resourceAirFilter']/property[@name='Weight']/@value">8</set>
+	<set xpath="/items/item[@name='resourceCandyTin']/property[@name='Weight']/@value">3</set>
+	<set xpath="/items/item[@name='resourceDoorKnob']/property[@name='Weight']/@value">10</set>
+	<set xpath="/items/item[@name='resourceCandleStick']/property[@name='Weight']/@value">30</set>
+	<set xpath="/items/item[@name='resourceRadiator']/property[@name='Weight']/@value">50</set>
+	<set xpath="/items/item[@name='resourceFishingWeight']/property[@name='Weight']/@value">3</set>
+	<set xpath="/items/item[@name='resourceTrophy1']/property[@name='Weight']/@value">10</set>
+	<set xpath="/items/item[@name='resourceTrophy2']/property[@name='Weight']/@value">5</set>
+	<set xpath="/items/item[@name='resourceTrophy3']/property[@name='Weight']/@value">3</set>
+	<set xpath="/items/item[@name='smallEngine']/property[@name='Weight']/@value">100</set>
+	<set xpath="/items/item[@name='carBattery']/property[@name='Weight']/@value">80</set>
+	<set xpath="/items/item[@name='resourceHeadlight']/property[@name='Weight']/@value">5</set>
+	<set xpath="/items/item[@name='solarCell']/property[@name='Weight']/@value">5</set>
+	<set xpath="/items/item[@name='resourceGlue']/property[@name='Weight']/@value">5</set>
+	<set xpath="/items/item[@name='resourceDuctTape']/property[@name='Weight']/@value">3</set>
+	<set xpath="/items/item[@name='resourceSpring']/property[@name='Weight']/@value">5</set>
+	<set xpath="/items/item[@name='toolBeaker']/property[@name='Weight']/@value">8</set>
+	<set xpath="/items/item[@name='toolBellows']/property[@name='Weight']/@value">50</set>
+	<set xpath="/items/item[@name='toolAndDieSet']/property[@name='Weight']/@value">15</set>
+</configs>

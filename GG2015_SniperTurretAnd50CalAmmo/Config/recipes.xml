@@ -1,0 +1,13 @@
+<configs>
+	<append xpath="/recipes">
+		<recipe name="Sniper Rifle Turret" count="1"  craft_area="workbench" craft_time="90">
+			<ingredient name="motionsensor" count="1"/>
+			<ingredient name="gunMR10" count="1"/>
+		</recipe>
+		<recipe name="50 Caliber Ammo" count="1" craft_area="workbench" craft_time="10">
+			<ingredient name="resourceBulletTip" count="1"/>
+			<ingredient name="resourceGunPowder" count="5"/>
+			<ingredient name="resourceBulletCasingSteel" count="1"/>
+		</recipe>
+	</append>
+</configs>

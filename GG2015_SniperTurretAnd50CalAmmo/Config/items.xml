@@ -1,0 +1,15 @@
+<configs>
+	<append xpath="/items">
+		<item name="50 Caliber Ammo">
+			<property name="CustomIcon" value="ammo762mmBulletFMJ"/><property name="CustomIconTint" value="a0a0ff"/>
+			<property name="DisplayType" value="ammoBullet"/>
+			<property name="HoldType" value="45"/>
+			<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+			<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+			<property name="EconomicValue" value="95"/>
+			<property name="Stacknumber" value="100"/>
+			<property name="Group" value="Ammo/Weapons"/>
+			<property name="Material" value="Msteel"/>
+		</item>
+	</append>
+</configs>

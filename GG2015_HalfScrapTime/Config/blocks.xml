@@ -1,0 +1,10 @@
+<configs>
+	<set xpath="/blocks/block[@name='faucet02']/property[@name='Weight']/@value">12</set>
+	<set xpath="/blocks/block[@name='faucet04']/property[@name='Weight']/@value">8</set>
+	<set xpath="/blocks/block[@name='faucetBrass02']/property[@name='Weight']/@value">13</set>
+	<set xpath="/blocks/block[@name='faucetBrass04']/property[@name='Weight']/@value">8</set>
+	<set xpath="/blocks/block[@name='showerHead']/property[@name='Weight']/@value">12</set>
+	<set xpath="/blocks/block[@name='oldChair1']/property[@name='Weight']/@value">15</set>
+	<set xpath="/blocks/block[@name='tv']/property[@name='Weight']/@value">4</set>
+	<set xpath="/blocks/block[@name='tire']/property[@name='Weight']/@value">8</set>
+</configs>
